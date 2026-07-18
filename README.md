@@ -9,7 +9,7 @@ Chase The Split is a web app that turns rowing workout data into usable analytic
 - Monitor pace progression
 - Evaluate efficiency
 - Review a training calendar
-- Ask AI coach questions
+- Ask an AI coach questions
 - Evaluate workout history
 
 ## How to use
