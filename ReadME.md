@@ -22,7 +22,7 @@ Make your first request:
 curl "https://rowfinder.xyz/api/v1/hotels?pageSize=1" \
 ```
 
-A successful response returns an array of hotels and pagination details:
+Response:
 
 ```json
 
