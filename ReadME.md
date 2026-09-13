@@ -1,10 +1,10 @@
 # RowFinder
 
-RowFinder lists hotels across the U.S. and the world that have rowing machines in their fitness centers.
+RowFinder lists hotels across the U.S. and the world that have rowing machines, including Concept2 and Hydrow ergs, in their fitness centers.
 
 ## Overview
 
-This Application Programming Interface (API) provides a way to pull the rowing machine data into your favorite app.
+This Application Programming Interface (API) retrieves data from a directory of hotels that have rowing machines in their fitness centers.
 
 ## Base URL
 
@@ -123,7 +123,7 @@ A successful response returns an array of hotels and pagination details:
 
 ## Endpoints
 
-RowFinder's public API lets you retrieve hotel listings and statistics, including the number the cities or hotels available on the platform.
+RowFinder's public API lets you retrieve hotel listings and statistics, including the number of hotels listed on the platform.
 
 | Method | Endpoint | Purpose |
 | --- | --- | ---|
@@ -146,7 +146,7 @@ RowFinder's public API lets you retrieve hotel listings and statistics, includin
 
 ## Rate Limits
 
-API KeysA are limited to 120 requests per minute. If you exceed this limit, the API returns `429 RATE_LIMITED`.
+API Keys are limited to 120 requests per minute. If you exceed this limit, the API returns `429 RATE_LIMITED`.
 
 ## Data Freshness
 
